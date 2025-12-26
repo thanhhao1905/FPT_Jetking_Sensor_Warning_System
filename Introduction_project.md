@@ -1,7 +1,7 @@
-# Smart Fire Alarm Monitoring System
+# Sensor_Warning_System
 
 ## Project Overview
-The Smart Fire Alarm Monitoring System is an Internet of Things (IoT) based safety solution that combines Field-Programmable Gate Array (FPGA) hardware processing with ESP32 microcontroller wireless communication capabilities. This system implements real-time environmental monitoring and emergency alert functionality through the integration of multiple sensor technologies. The project provides comprehensive fire safety monitoring by combining temperature/humidity detection, smoke sensing, and wireless connectivity in a unified platform.
+The Sensor_Warning_System is an Internet of Things (IoT) based safety solution that combines Field-Programmable Gate Array (FPGA) hardware processing with ESP32 microcontroller wireless communication capabilities. This system implements real-time environmental monitoring and emergency alert functionality through the integration of multiple sensor technologies. The project provides comprehensive fire safety monitoring by combining temperature/humidity detection, smoke sensing, and wireless connectivity in a unified platform.
 
 ## Key Features
 

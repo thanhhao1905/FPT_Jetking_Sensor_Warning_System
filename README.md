@@ -5,6 +5,11 @@ The Sensor_Warning_System is an Internet of Things (IoT) based safety solution t
 
 <img width="2560" height="1920" alt="image" src="https://github.com/user-attachments/assets/cd19d085-2c94-48a5-9917-24aa6ef45135" />
 
+
+
+Smart Fire Alarm Monitoring System is an electronic system that uses sensors to detect abnormal conditions in the environment or equipment, processes the collected data, and generates warning signals to notify users in order to prevent risks and accidents.
+
+**Video project** : https://youtu.be/CG1zkX-FkQo?si=CjR44xusNYt4jImB
 ## Key Features
 
 ### Multi-Sensor Integration

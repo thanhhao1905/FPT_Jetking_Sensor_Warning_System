@@ -1,4 +1,4 @@
-````verilog
+
 module uart_mq2_receiver #(
     parameter CLK_FREQ = 40_000_000,
     parameter BAUD_RATE = 9600

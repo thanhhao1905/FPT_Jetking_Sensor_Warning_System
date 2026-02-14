@@ -1,4 +1,4 @@
-````verilog
+
 module top_complete #(
     parameter CLK_HZ = 40_000_000,
     parameter BAUD_RATE = 9600

@@ -1,4 +1,4 @@
-````verilog
+
 module lcd_write_cmd_data(
     input       clk_1MHz,
     input       rst_n,

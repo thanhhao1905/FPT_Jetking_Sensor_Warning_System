@@ -1,4 +1,4 @@
-````verilog
+
 module digit_scan(
     input  wire clk,
     input  wire rst_n,

@@ -1,4 +1,3 @@
-````verilog
 module hex7seg(
     input  wire [3:0] hex,
     output reg  [7:0] seg
